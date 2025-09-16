@@ -3,7 +3,7 @@ The visualization of sound
 
 ## Dependencies
 python3  
-`brew install portaudio`  
+`brew install uv portaudio`  
 
 ## Build and run
 `uv venv`  
